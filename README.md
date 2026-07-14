@@ -1,3 +1,4 @@
 | # | Problem | Platform | Difficulty | Date Solved | Time |
 |---|---------|----------|------------|-------------|------|
 | 1 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 14 Jul 2026 | 05:20 pm |
+| 2 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 14 Jul 2026 | 05:57 pm |
