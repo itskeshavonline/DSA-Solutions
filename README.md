@@ -5,3 +5,4 @@
 | 3 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 14 Jul 2026 | 07:43 pm |
 | 4 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 15 Jul 2026 | 09:43 pm |
 | 5 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 15 Jul 2026 | 10:15 pm |
+| 6 | [Bitwise AND of Numbers Range](./LeetCode/Medium/Bitwise%20AND%20of%20Numbers%20Range) | [LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 15 Jul 2026 | 11:11 pm |
