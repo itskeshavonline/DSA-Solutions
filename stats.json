@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -17,14 +17,16 @@
     "LeetCode_Number_of_1_Bits": true,
     "LeetCode_Counting_Bits": true,
     "LeetCode_Bitwise_AND_of_Numbers_Range": true,
-    "LeetCode_Single_Number_III": true
+    "LeetCode_Single_Number_III": true,
+    "LeetCode_GCD_of_Odd_and_Even_Sums": true
   },
   "activityHistory": {
     "2026-07-14": 3,
     "2026-07-15": 3,
-    "2026-07-16": 1
+    "2026-07-16": 2
   },
   "todayProblems": [
-    "Single Number III"
+    "Single Number III",
+    "GCD of Odd and Even Sums"
   ]
 }
