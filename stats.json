@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -14,13 +14,15 @@
     "LeetCode_Add_Binary": true,
     "LeetCode_Divide_Two_Integers": true,
     "LeetCode_Reverse_Bits": true,
-    "LeetCode_Number_of_1_Bits": true
+    "LeetCode_Number_of_1_Bits": true,
+    "LeetCode_Counting_Bits": true
   },
   "activityHistory": {
     "2026-07-14": 3,
-    "2026-07-15": 1
+    "2026-07-15": 2
   },
   "todayProblems": [
-    "Number of 1 Bits"
+    "Number of 1 Bits",
+    "Counting Bits"
   ]
 }
