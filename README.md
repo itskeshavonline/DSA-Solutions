@@ -10,3 +10,4 @@
 | 8 | [GCD of Odd and Even Sums](./LeetCode/Easy/GCD%20of%20Odd%20and%20Even%20Sums) | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | 16 Jul 2026 | 02:28 am |
 | 9 | [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) | [LeetCode](https://leetcode.com/problems/online-stock-span/) | Medium | 16 Jul 2026 | 06:14 pm |
 | 10 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 07:56 pm |
+| 11 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 16 Jul 2026 | 11:47 pm |
