@@ -8,3 +8,4 @@
 | 6 | [Bitwise AND of Numbers Range](./LeetCode/Medium/Bitwise%20AND%20of%20Numbers%20Range) | [LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 15 Jul 2026 | 11:11 pm |
 | 7 | [Single Number III](./LeetCode/Medium/Single%20Number%20III) | [LeetCode](https://leetcode.com/problems/single-number-iii/) | Medium | 16 Jul 2026 | 02:04 am |
 | 8 | [GCD of Odd and Even Sums](./LeetCode/Easy/GCD%20of%20Odd%20and%20Even%20Sums) | [LeetCode](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Easy | 16 Jul 2026 | 02:28 am |
+| 9 | [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) | [LeetCode](https://leetcode.com/problems/online-stock-span/) | Medium | 16 Jul 2026 | 06:14 pm |
