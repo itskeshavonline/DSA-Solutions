@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-07-16",
-  "todayCount": 5,
+  "totalSolved": 12,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-07-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -21,18 +21,16 @@
     "LeetCode_GCD_of_Odd_and_Even_Sums": true,
     "LeetCode_Online_Stock_Span": true,
     "LeetCode_Sum_of_GCD_of_Formed_Pairs": true,
-    "LeetCode_Remove_K_Digits": true
+    "LeetCode_Remove_K_Digits": true,
+    "LeetCode_Permutations": true
   },
   "activityHistory": {
     "2026-07-14": 3,
     "2026-07-15": 3,
-    "2026-07-16": 5
+    "2026-07-16": 5,
+    "2026-07-17": 1
   },
   "todayProblems": [
-    "Single Number III",
-    "GCD of Odd and Even Sums",
-    "Online Stock Span",
-    "Sum of GCD of Formed Pairs",
-    "Remove K Digits"
+    "Permutations"
   ]
 }

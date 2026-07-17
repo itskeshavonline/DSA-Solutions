@@ -11,3 +11,4 @@
 | 9 | [Online Stock Span](./LeetCode/Medium/Online%20Stock%20Span) | [LeetCode](https://leetcode.com/problems/online-stock-span/) | Medium | 16 Jul 2026 | 06:14 pm |
 | 10 | [Sum of GCD of Formed Pairs](./LeetCode/Medium/Sum%20of%20GCD%20of%20Formed%20Pairs) | [LeetCode](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | 16 Jul 2026 | 07:56 pm |
 | 11 | [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) | [LeetCode](https://leetcode.com/problems/remove-k-digits/) | Medium | 16 Jul 2026 | 11:47 pm |
+| 12 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 17 Jul 2026 | 01:50 pm |
