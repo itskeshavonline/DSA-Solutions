@@ -14,3 +14,4 @@
 | 12 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 17 Jul 2026 | 01:50 pm |
 | 13 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 17 Jul 2026 | 03:48 pm |
 | 14 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 17 Jul 2026 | 07:56 pm |
+| 15 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 18 Jul 2026 | 05:21 am |
