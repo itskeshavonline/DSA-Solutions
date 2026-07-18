@@ -1,11 +1,11 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 9,
     "hard": 1,
     "basic": 0
@@ -25,16 +25,18 @@
     "LeetCode_Permutations": true,
     "LeetCode_Combination_Sum": true,
     "LeetCode_Combination_Sum_II": true,
-    "LeetCode_Sorted_GCD_Pair_Queries": true
+    "LeetCode_Sorted_GCD_Pair_Queries": true,
+    "LeetCode_Rearrange_String_to_Avoid_Character_Pair": true
   },
   "activityHistory": {
     "2026-07-14": 3,
     "2026-07-15": 3,
     "2026-07-16": 5,
     "2026-07-17": 3,
-    "2026-07-18": 1
+    "2026-07-18": 2
   },
   "todayProblems": [
-    "Sorted GCD Pair Queries"
+    "Sorted GCD Pair Queries",
+    "Rearrange String to Avoid Character Pair"
   ]
 }

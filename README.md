@@ -15,3 +15,4 @@
 | 13 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 17 Jul 2026 | 03:48 pm |
 | 14 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 17 Jul 2026 | 07:56 pm |
 | 15 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 18 Jul 2026 | 05:21 am |
+| 16 | [Rearrange String to Avoid Character Pair](./LeetCode/Easy/Rearrange%20String%20to%20Avoid%20Character%20Pair) | [LeetCode](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | Easy | 18 Jul 2026 | 11:32 pm |
