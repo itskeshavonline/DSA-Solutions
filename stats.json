@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
-  "currentStreak": 5,
+  "totalSolved": 18,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-18",
-  "todayCount": 3,
+  "lastSyncDate": "2026-07-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 9,
+    "medium": 10,
     "hard": 1,
     "basic": 0
   },
@@ -27,18 +27,18 @@
     "LeetCode_Combination_Sum_II": true,
     "LeetCode_Sorted_GCD_Pair_Queries": true,
     "LeetCode_Rearrange_String_to_Avoid_Character_Pair": true,
-    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true
+    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
+    "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true
   },
   "activityHistory": {
     "2026-07-14": 3,
     "2026-07-15": 3,
     "2026-07-16": 5,
     "2026-07-17": 3,
-    "2026-07-18": 3
+    "2026-07-18": 3,
+    "2026-07-20": 1
   },
   "todayProblems": [
-    "Sorted GCD Pair Queries",
-    "Rearrange String to Avoid Character Pair",
-    "Find Greatest Common Divisor of Array"
+    "Smallest Subsequence of Distinct Characters"
   ]
 }

@@ -17,3 +17,4 @@
 | 15 | [Sorted GCD Pair Queries](./LeetCode/Hard/Sorted%20GCD%20Pair%20Queries) | [LeetCode](https://leetcode.com/problems/sorted-gcd-pair-queries/) | Hard | 18 Jul 2026 | 05:21 am |
 | 16 | [Rearrange String to Avoid Character Pair](./LeetCode/Easy/Rearrange%20String%20to%20Avoid%20Character%20Pair) | [LeetCode](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | Easy | 18 Jul 2026 | 11:32 pm |
 | 17 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 18 Jul 2026 | 11:49 pm |
+| 18 | [Smallest Subsequence of Distinct Characters](./LeetCode/Medium/Smallest%20Subsequence%20of%20Distinct%20Characters) | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | 20 Jul 2026 | 01:45 am |
