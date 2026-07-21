@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 2,
+  "totalSolved": 20,
+  "currentStreak": 3,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-21",
+  "lastSyncDate": "2026-07-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 0
   },
@@ -29,7 +29,8 @@
     "LeetCode_Rearrange_String_to_Avoid_Character_Pair": true,
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
     "LeetCode_Smallest_Subsequence_of_Distinct_Characters": true,
-    "LeetCode_Shift_2D_Grid": true
+    "LeetCode_Shift_2D_Grid": true,
+    "LeetCode_Maximize_Active_Section_with_Trade_I": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -38,9 +39,10 @@
     "2026-07-17": 3,
     "2026-07-18": 3,
     "2026-07-20": 1,
-    "2026-07-21": 1
+    "2026-07-21": 1,
+    "2026-07-22": 1
   },
   "todayProblems": [
-    "Shift 2D Grid"
+    "Maximize Active Section with Trade I"
   ]
 }
