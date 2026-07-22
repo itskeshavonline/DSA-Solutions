@@ -20,3 +20,4 @@
 | 18 | [Smallest Subsequence of Distinct Characters](./LeetCode/Medium/Smallest%20Subsequence%20of%20Distinct%20Characters) | [LeetCode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Medium | 20 Jul 2026 | 01:45 am |
 | 19 | [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) | [LeetCode](https://leetcode.com/problems/shift-2d-grid/) | Easy | 21 Jul 2026 | 03:27 am |
 | 20 | [Maximize Active Section with Trade I](./LeetCode/Medium/Maximize%20Active%20Section%20with%20Trade%20I) | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Medium | 22 Jul 2026 | 04:44 am |
+| 21 | [Maximize Active Section with Trade II](./LeetCode/Hard/Maximize%20Active%20Section%20with%20Trade%20II) | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard | 23 Jul 2026 | 04:34 am |
