@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-07-24",
+  "totalSolved": 23,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-07-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 12,
+    "medium": 13,
     "hard": 2,
     "basic": 0
   },
@@ -32,7 +32,8 @@
     "LeetCode_Shift_2D_Grid": true,
     "LeetCode_Maximize_Active_Section_with_Trade_I": true,
     "LeetCode_Maximize_Active_Section_with_Trade_II": true,
-    "LeetCode_Number_of_Unique_XOR_Triplets_I": true
+    "LeetCode_Number_of_Unique_XOR_Triplets_I": true,
+    "LeetCode_Number_of_Unique_XOR_Triplets_II": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -44,9 +45,10 @@
     "2026-07-21": 1,
     "2026-07-22": 1,
     "2026-07-23": 1,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-25": 1
   },
   "todayProblems": [
-    "Number of Unique XOR Triplets I"
+    "Number of Unique XOR Triplets II"
   ]
 }
