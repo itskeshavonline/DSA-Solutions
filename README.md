@@ -23,3 +23,4 @@
 | 21 | [Maximize Active Section with Trade II](./LeetCode/Hard/Maximize%20Active%20Section%20with%20Trade%20II) | [LeetCode](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | Hard | 23 Jul 2026 | 04:34 am |
 | 22 | [Number of Unique XOR Triplets I](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20I) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Medium | 24 Jul 2026 | 03:36 am |
 | 23 | [Number of Unique XOR Triplets II](./LeetCode/Medium/Number%20of%20Unique%20XOR%20Triplets%20II) | [LeetCode](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | Medium | 25 Jul 2026 | 05:18 am |
+| 24 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 26 Jul 2026 | 01:31 am |
