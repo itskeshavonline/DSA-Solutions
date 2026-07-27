@@ -26,3 +26,4 @@
 | 24 | [Maximum Product of Two Digits](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Digits) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | 26 Jul 2026 | 01:31 am |
 | 25 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 01:26 pm |
 | 26 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 28 Jul 2026 | 12:15 am |
+| 27 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 28 Jul 2026 | 02:04 am |
