@@ -28,3 +28,4 @@
 | 26 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 28 Jul 2026 | 12:15 am |
 | 27 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 28 Jul 2026 | 02:04 am |
 | 28 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 29 Jul 2026 | 04:34 am |
+| 29 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 30 Jul 2026 | 05:10 am |

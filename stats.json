@@ -1,13 +1,13 @@
 {
-  "totalSolved": 28,
-  "currentStreak": 2,
+  "totalSolved": 29,
+  "currentStreak": 3,
   "maxStreak": 7,
-  "lastSyncDate": "2026-07-29",
+  "lastSyncDate": "2026-07-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 11,
     "medium": 15,
-    "hard": 2,
+    "hard": 3,
     "basic": 0
   },
   "syncedProblems": {
@@ -38,7 +38,8 @@
     "LeetCode_Maximum_Product_of_Three_Numbers": true,
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "LeetCode_Valid_Sudoku": true,
-    "LeetCode_Smallest_Palindromic_Rearrangement_I": true
+    "LeetCode_Smallest_Palindromic_Rearrangement_I": true,
+    "LeetCode_Smallest_Palindromic_Rearrangement_II": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -54,9 +55,10 @@
     "2026-07-25": 1,
     "2026-07-26": 2,
     "2026-07-28": 2,
-    "2026-07-29": 1
+    "2026-07-29": 1,
+    "2026-07-30": 1
   },
   "todayProblems": [
-    "Smallest Palindromic Rearrangement I"
+    "Smallest Palindromic Rearrangement II"
   ]
 }
