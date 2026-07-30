@@ -29,3 +29,4 @@
 | 27 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 28 Jul 2026 | 02:04 am |
 | 28 | [Smallest Palindromic Rearrangement I](./LeetCode/Medium/Smallest%20Palindromic%20Rearrangement%20I) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Medium | 29 Jul 2026 | 04:34 am |
 | 29 | [Smallest Palindromic Rearrangement II](./LeetCode/Hard/Smallest%20Palindromic%20Rearrangement%20II) | [LeetCode](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | Hard | 30 Jul 2026 | 05:10 am |
+| 30 | [Minimum Number of Pushes to Type Word I](./LeetCode/Easy/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | 30 Jul 2026 | 01:23 pm |
