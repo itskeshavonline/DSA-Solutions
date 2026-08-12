@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-08-07",
+  "lastSyncDate": "2026-08-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 17,
+    "medium": 18,
     "hard": 3,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_I": true,
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "LeetCode_Predict_the_Winner": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_I": true
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true,
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -63,9 +64,10 @@
     "2026-07-30": 2,
     "2026-07-31": 1,
     "2026-08-01": 1,
-    "2026-08-07": 1
+    "2026-08-07": 1,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Smallest Divisible Digit Product I"
+    "Length of Longest Subarray With at Most K Frequency"
   ]
 }
