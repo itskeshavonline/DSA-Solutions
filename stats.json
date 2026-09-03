@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 1,
+  "totalSolved": 38,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-02",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-03",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 19,
     "hard": 3,
     "basic": 0
@@ -47,7 +47,8 @@
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
     "LeetCode_Remove_Element": true,
     "LeetCode_Count_and_Say": true,
-    "LeetCode_Shuffle_String": true
+    "LeetCode_Shuffle_String": true,
+    "LeetCode_Isomorphic_Strings": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -70,10 +71,10 @@
     "2026-08-07": 1,
     "2026-08-13": 1,
     "2026-08-23": 1,
-    "2026-09-02": 2
+    "2026-09-02": 2,
+    "2026-09-03": 1
   },
   "todayProblems": [
-    "Count and Say",
-    "Shuffle String"
+    "Isomorphic Strings"
   ]
 }
