@@ -40,3 +40,4 @@
 | 38 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 03 Sept 2026 | 11:29 am |
 | 39 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 04 Sept 2026 | 01:55 pm |
 | 40 | [Palindromic Substrings](./LeetCode/Medium/Palindromic%20Substrings) | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | Medium | 04 Sept 2026 | 08:23 pm |
+| 41 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 04 Sept 2026 | 09:03 pm |
