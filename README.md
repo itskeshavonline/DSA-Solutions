@@ -41,3 +41,4 @@
 | 39 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 04 Sept 2026 | 01:55 pm |
 | 40 | [Palindromic Substrings](./LeetCode/Medium/Palindromic%20Substrings) | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | Medium | 04 Sept 2026 | 08:23 pm |
 | 41 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 04 Sept 2026 | 09:03 pm |
+| 42 | [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) | [LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | 04 Sept 2026 | 10:54 pm |
