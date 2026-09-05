@@ -42,3 +42,4 @@
 | 40 | [Palindromic Substrings](./LeetCode/Medium/Palindromic%20Substrings) | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | Medium | 04 Sept 2026 | 08:23 pm |
 | 41 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 04 Sept 2026 | 09:03 pm |
 | 42 | [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) | [LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | 04 Sept 2026 | 10:54 pm |
+| 43 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 05 Sept 2026 | 10:33 am |
