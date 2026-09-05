@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 4,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 21,
+    "medium": 22,
     "hard": 4,
     "basic": 0
   },
@@ -53,7 +53,8 @@
     "LeetCode_Palindromic_Substrings": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
     "LeetCode_Remove_All_Occurrences_of_a_Substring": true,
-    "LeetCode_Valid_Palindrome_II": true
+    "LeetCode_Valid_Palindrome_II": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -79,9 +80,10 @@
     "2026-09-02": 2,
     "2026-09-03": 1,
     "2026-09-04": 4,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "Valid Palindrome II"
+    "Valid Palindrome II",
+    "Longest Palindromic Substring"
   ]
 }
