@@ -44,3 +44,4 @@
 | 42 | [Remove All Occurrences of a Substring](./LeetCode/Medium/Remove%20All%20Occurrences%20of%20a%20Substring) | [LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | Medium | 04 Sept 2026 | 10:54 pm |
 | 43 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 05 Sept 2026 | 10:33 am |
 | 44 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 05 Sept 2026 | 02:18 pm |
+| 45 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 05 Sept 2026 | 04:36 pm |
