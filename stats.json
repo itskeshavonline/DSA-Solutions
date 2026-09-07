@@ -1,11 +1,11 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 27,
     "hard": 5,
     "basic": 0
@@ -60,7 +60,8 @@
     "LeetCode_Find_All_Anagrams_in_a_String": true,
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Longest_Palindromic_Subsequence": true,
-    "GeeksForGeeks_Check_K-th_Bit": true
+    "GeeksForGeeks_Check_K-th_Bit": true,
+    "GeeksForGeeks_First_Set_Bit": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -88,9 +89,10 @@
     "2026-09-04": 4,
     "2026-09-05": 4,
     "2026-09-06": 3,
-    "2026-09-08": 1
+    "2026-09-08": 2
   },
   "todayProblems": [
-    "Check K-th Bit"
+    "Check K-th Bit",
+    "First Set Bit"
   ]
 }
