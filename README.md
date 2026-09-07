@@ -49,3 +49,4 @@
 | 47 | [Find All Anagrams in a String](./LeetCode/Medium/Find%20All%20Anagrams%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | 06 Sept 2026 | 10:08 am |
 | 48 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 06 Sept 2026 | 03:44 pm |
 | 49 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 06 Sept 2026 | 09:02 pm |
+| 50 | [Check K-th Bit](./GeeksForGeeks/Medium/Check%20K-th%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Medium | 08 Sept 2026 | 05:03 am |

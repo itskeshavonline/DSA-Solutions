@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
-  "currentStreak": 5,
+  "totalSolved": 50,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-06",
-  "todayCount": 3,
+  "lastSyncDate": "2026-09-08",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 26,
+    "medium": 27,
     "hard": 5,
     "basic": 0
   },
@@ -59,7 +59,8 @@
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Find_All_Anagrams_in_a_String": true,
     "LeetCode_Minimum_Window_Substring": true,
-    "LeetCode_Longest_Palindromic_Subsequence": true
+    "LeetCode_Longest_Palindromic_Subsequence": true,
+    "GeeksForGeeks_Check_K-th_Bit": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -86,11 +87,10 @@
     "2026-09-03": 1,
     "2026-09-04": 4,
     "2026-09-05": 4,
-    "2026-09-06": 3
+    "2026-09-06": 3,
+    "2026-09-08": 1
   },
   "todayProblems": [
-    "Find All Anagrams in a String",
-    "Minimum Window Substring",
-    "Longest Palindromic Subsequence"
+    "Check K-th Bit"
   ]
 }
