@@ -51,3 +51,4 @@
 | 49 | [Longest Palindromic Subsequence](./LeetCode/Medium/Longest%20Palindromic%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | 06 Sept 2026 | 09:02 pm |
 | 50 | [Check K-th Bit](./GeeksForGeeks/Medium/Check%20K-th%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Medium | 08 Sept 2026 | 05:03 am |
 | 51 | [First Set Bit](./GeeksForGeeks/Easy/First%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1) | Easy | 08 Sept 2026 | 05:12 am |
+| 52 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 09 Sept 2026 | 03:58 am |
