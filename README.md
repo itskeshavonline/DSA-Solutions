@@ -54,3 +54,4 @@
 | 52 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 09 Sept 2026 | 03:58 am |
 | 53 | [One Odd Occuring](./GeeksForGeeks/Basic/One%20Odd%20Occuring) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | Basic | 09 Sept 2026 | 12:34 pm |
 | 54 | [Two odd Occuring](./GeeksForGeeks/Medium/Two%20odd%20Occuring) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | 09 Sept 2026 | 03:54 pm |
+| 55 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 10 Sept 2026 | 03:44 am |
