@@ -1,14 +1,14 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 20,
     "medium": 27,
     "hard": 5,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Add_Binary": true,
@@ -62,7 +62,8 @@
     "LeetCode_Longest_Palindromic_Subsequence": true,
     "GeeksForGeeks_Check_K-th_Bit": true,
     "GeeksForGeeks_First_Set_Bit": true,
-    "LeetCode_Power_of_Two": true
+    "LeetCode_Power_of_Two": true,
+    "GeeksForGeeks_One_Odd_Occuring": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -91,9 +92,10 @@
     "2026-09-05": 4,
     "2026-09-06": 3,
     "2026-09-08": 2,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Power of Two"
+    "Power of Two",
+    "One Odd Occuring"
   ]
 }
