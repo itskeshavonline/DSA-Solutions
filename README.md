@@ -56,3 +56,4 @@
 | 54 | [Two odd Occuring](./GeeksForGeeks/Medium/Two%20odd%20Occuring) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | 09 Sept 2026 | 03:54 pm |
 | 55 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 10 Sept 2026 | 03:44 am |
 | 56 | [Minimum Bit Flips to Convert Number](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number) | [LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | 10 Sept 2026 | 04:02 am |
+| 57 | [Position of the Set Bit](./GeeksForGeeks/Basic/Position%20of%20the%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Basic | 10 Sept 2026 | 04:51 am |
