@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 3,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 22,
     "medium": 28,
     "hard": 5,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "LeetCode_Add_Binary": true,
@@ -67,7 +67,8 @@
     "GeeksForGeeks_Two_odd_Occuring": true,
     "LeetCode_Missing_Number": true,
     "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true,
-    "GeeksForGeeks_Position_of_the_Set_Bit": true
+    "GeeksForGeeks_Position_of_the_Set_Bit": true,
+    "GeeksForGeeks_Set_kth_Bit": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -97,11 +98,12 @@
     "2026-09-06": 3,
     "2026-09-08": 2,
     "2026-09-09": 3,
-    "2026-09-10": 3
+    "2026-09-10": 4
   },
   "todayProblems": [
     "Missing Number",
     "Minimum Bit Flips to Convert Number",
-    "Position of the Set Bit"
+    "Position of the Set Bit",
+    "Set kth Bit"
   ]
 }
