@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 27,
+    "medium": 28,
     "hard": 5,
     "basic": 1
   },
@@ -63,7 +63,8 @@
     "GeeksForGeeks_Check_K-th_Bit": true,
     "GeeksForGeeks_First_Set_Bit": true,
     "LeetCode_Power_of_Two": true,
-    "GeeksForGeeks_One_Odd_Occuring": true
+    "GeeksForGeeks_One_Odd_Occuring": true,
+    "GeeksForGeeks_Two_odd_Occuring": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -92,10 +93,11 @@
     "2026-09-05": 4,
     "2026-09-06": 3,
     "2026-09-08": 2,
-    "2026-09-09": 2
+    "2026-09-09": 3
   },
   "todayProblems": [
     "Power of Two",
-    "One Odd Occuring"
+    "One Odd Occuring",
+    "Two odd Occuring"
   ]
 }
