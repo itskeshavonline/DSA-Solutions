@@ -1,11 +1,11 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 3,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 28,
     "hard": 5,
     "basic": 4
@@ -69,7 +69,8 @@
     "LeetCode_Minimum_Bit_Flips_to_Convert_Number": true,
     "GeeksForGeeks_Position_of_the_Set_Bit": true,
     "GeeksForGeeks_Set_kth_Bit": true,
-    "GeeksForGeeks_Unset_Kth_Bit": true
+    "GeeksForGeeks_Unset_Kth_Bit": true,
+    "LeetCode_XOR_Operation_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -99,13 +100,14 @@
     "2026-09-06": 3,
     "2026-09-08": 2,
     "2026-09-09": 3,
-    "2026-09-10": 5
+    "2026-09-10": 6
   },
   "todayProblems": [
     "Missing Number",
     "Minimum Bit Flips to Convert Number",
     "Position of the Set Bit",
     "Set kth Bit",
-    "Unset Kth Bit"
+    "Unset Kth Bit",
+    "XOR Operation in an Array"
   ]
 }

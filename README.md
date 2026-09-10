@@ -59,3 +59,4 @@
 | 57 | [Position of the Set Bit](./GeeksForGeeks/Basic/Position%20of%20the%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Basic | 10 Sept 2026 | 04:51 am |
 | 58 | [Set kth Bit](./GeeksForGeeks/Basic/Set%20kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | Basic | 10 Sept 2026 | 05:09 am |
 | 59 | [Unset Kth Bit](./GeeksForGeeks/Basic/Unset%20Kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-the-bit3212/1) | Basic | 10 Sept 2026 | 06:04 am |
+| 60 | [XOR Operation in an Array](./LeetCode/Easy/XOR%20Operation%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | 10 Sept 2026 | 11:33 am |
