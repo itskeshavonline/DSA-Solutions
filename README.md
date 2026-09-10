@@ -58,3 +58,4 @@
 | 56 | [Minimum Bit Flips to Convert Number](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number) | [LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Easy | 10 Sept 2026 | 04:02 am |
 | 57 | [Position of the Set Bit](./GeeksForGeeks/Basic/Position%20of%20the%20Set%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Basic | 10 Sept 2026 | 04:51 am |
 | 58 | [Set kth Bit](./GeeksForGeeks/Basic/Set%20kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | Basic | 10 Sept 2026 | 05:09 am |
+| 59 | [Unset Kth Bit](./GeeksForGeeks/Basic/Unset%20Kth%20Bit) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-the-bit3212/1) | Basic | 10 Sept 2026 | 06:04 am |
