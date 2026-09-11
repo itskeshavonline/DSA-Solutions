@@ -17,12 +17,10 @@ public:
         head = head->next;
 
         while(head != nullptr) {
-            if(head->val == 1) {
-                num <<=1;
-                num++;
-            } else {
-                num <<=1;
-            }
+            num = (num << 1) | head->val;
+            // Standard base-2 arithmetic conversion
+            // num = (num * 2) + head->val;
+            
             head = head->next;
         }
 
