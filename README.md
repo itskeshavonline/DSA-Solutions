@@ -62,3 +62,4 @@
 | 60 | [XOR Operation in an Array](./LeetCode/Easy/XOR%20Operation%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | 10 Sept 2026 | 11:33 am |
 | 61 | [XOR of a Number Range](./GeeksForGeeks/Easy/XOR%20of%20a%20Number%20Range) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | 10 Sept 2026 | 11:47 am |
 | 62 | [Convert Binary Number in a Linked List to Integer](./LeetCode/Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) | [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | 11 Sept 2026 | 04:34 pm |
+| 63 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 11 Sept 2026 | 04:45 pm |

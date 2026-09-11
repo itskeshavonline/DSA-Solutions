@@ -1,11 +1,11 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 4,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 28,
     "hard": 5,
     "basic": 4
@@ -72,7 +72,8 @@
     "GeeksForGeeks_Unset_Kth_Bit": true,
     "LeetCode_XOR_Operation_in_an_Array": true,
     "GeeksForGeeks_XOR_of_a_Number_Range": true,
-    "LeetCode_Convert_Binary_Number_in_a_Linked_List_to_Integer": true
+    "LeetCode_Convert_Binary_Number_in_a_Linked_List_to_Integer": true,
+    "LeetCode_Middle_of_the_Linked_List": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -103,9 +104,10 @@
     "2026-09-08": 2,
     "2026-09-09": 3,
     "2026-09-10": 7,
-    "2026-09-11": 1
+    "2026-09-11": 2
   },
   "todayProblems": [
-    "Convert Binary Number in a Linked List to Integer"
+    "Convert Binary Number in a Linked List to Integer",
+    "Middle of the Linked List"
   ]
 }
