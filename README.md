@@ -64,3 +64,4 @@
 | 62 | [Convert Binary Number in a Linked List to Integer](./LeetCode/Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) | [LeetCode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | 11 Sept 2026 | 04:34 pm |
 | 63 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 11 Sept 2026 | 04:45 pm |
 | 64 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 11 Sept 2026 | 04:50 pm |
+| 65 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 11 Sept 2026 | 04:55 pm |
