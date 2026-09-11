@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 4,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 28,
+    "medium": 29,
     "hard": 5,
     "basic": 4
   },
@@ -75,7 +75,8 @@
     "LeetCode_Convert_Binary_Number_in_a_Linked_List_to_Integer": true,
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Linked_List_Cycle": true,
-    "LeetCode_Reverse_Linked_List": true
+    "LeetCode_Reverse_Linked_List": true,
+    "LeetCode_Delete_Node_in_a_Linked_List": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -106,12 +107,13 @@
     "2026-09-08": 2,
     "2026-09-09": 3,
     "2026-09-10": 7,
-    "2026-09-11": 4
+    "2026-09-11": 5
   },
   "todayProblems": [
     "Convert Binary Number in a Linked List to Integer",
     "Middle of the Linked List",
     "Linked List Cycle",
-    "Reverse Linked List"
+    "Reverse Linked List",
+    "Delete Node in a Linked List"
   ]
 }
