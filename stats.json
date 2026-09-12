@@ -1,13 +1,13 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 5,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 33,
     "medium": 30,
-    "hard": 5,
+    "hard": 6,
     "basic": 4
   },
   "syncedProblems": {
@@ -82,7 +82,8 @@
     "GeeksForGeeks_Insert_in_a_Sorted_List": true,
     "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Reverse_Nodes_in_k-Group": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -114,7 +115,7 @@
     "2026-09-09": 3,
     "2026-09-10": 7,
     "2026-09-11": 5,
-    "2026-09-12": 6
+    "2026-09-12": 7
   },
   "todayProblems": [
     "Remove Linked List Elements",
@@ -122,6 +123,7 @@
     "Insert in a Sorted List",
     "Kth from End of Linked List",
     "Remove Nth Node From End of List",
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "Reverse Nodes in k-Group"
   ]
 }
