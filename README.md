@@ -68,3 +68,4 @@
 | 66 | [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | 11 Sept 2026 | 05:12 pm |
 | 67 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 12 Sept 2026 | 05:40 am |
 | 68 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 12 Sept 2026 | 06:21 am |
+| 69 | [Insert in a Sorted List](./GeeksForGeeks/Easy/Insert%20in%20a%20Sorted%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | Easy | 12 Sept 2026 | 11:34 am |
