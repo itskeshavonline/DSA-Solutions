@@ -69,3 +69,4 @@
 | 67 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 12 Sept 2026 | 05:40 am |
 | 68 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 12 Sept 2026 | 06:21 am |
 | 69 | [Insert in a Sorted List](./GeeksForGeeks/Easy/Insert%20in%20a%20Sorted%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | Easy | 12 Sept 2026 | 11:34 am |
+| 70 | [Kth from End of Linked List](./GeeksForGeeks/Easy/Kth%20from%20End%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Easy | 12 Sept 2026 | 12:04 pm |
