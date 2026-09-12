@@ -1,12 +1,12 @@
 {
-  "totalSolved": 70,
+  "totalSolved": 71,
   "currentStreak": 5,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 29,
+    "medium": 30,
     "hard": 5,
     "basic": 4
   },
@@ -80,7 +80,8 @@
     "LeetCode_Remove_Linked_List_Elements": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "GeeksForGeeks_Insert_in_a_Sorted_List": true,
-    "GeeksForGeeks_Kth_from_End_of_Linked_List": true
+    "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -112,12 +113,13 @@
     "2026-09-09": 3,
     "2026-09-10": 7,
     "2026-09-11": 5,
-    "2026-09-12": 4
+    "2026-09-12": 5
   },
   "todayProblems": [
     "Remove Linked List Elements",
     "Remove Duplicates from Sorted List",
     "Insert in a Sorted List",
-    "Kth from End of Linked List"
+    "Kth from End of Linked List",
+    "Remove Nth Node From End of List"
   ]
 }
