@@ -1,12 +1,12 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 32,
+    "medium": 33,
     "hard": 6,
     "basic": 4
   },
@@ -85,7 +85,8 @@
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Reverse_Nodes_in_k-Group": true,
     "GeeksForGeeks_Remove_Cycle_in_Linked_List": true,
-    "LeetCode_Linked_List_Cycle_II": true
+    "LeetCode_Linked_List_Cycle_II": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -118,10 +119,11 @@
     "2026-09-10": 7,
     "2026-09-11": 5,
     "2026-09-12": 7,
-    "2026-09-13": 2
+    "2026-09-13": 3
   },
   "todayProblems": [
     "Remove Cycle in Linked List",
-    "Linked List Cycle II"
+    "Linked List Cycle II",
+    "Find First and Last Position of Element in Sorted Array"
   ]
 }
