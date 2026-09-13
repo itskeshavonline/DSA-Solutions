@@ -74,3 +74,4 @@
 | 72 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 12 Sept 2026 | 03:13 pm |
 | 73 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 12 Sept 2026 | 05:44 pm |
 | 74 | [Remove Cycle in Linked List](./GeeksForGeeks/Medium/Remove%20Cycle%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | Medium | 13 Sept 2026 | 11:43 am |
+| 75 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 13 Sept 2026 | 11:53 am |
