@@ -76,3 +76,4 @@
 | 74 | [Remove Cycle in Linked List](./GeeksForGeeks/Medium/Remove%20Cycle%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | Medium | 13 Sept 2026 | 11:43 am |
 | 75 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 13 Sept 2026 | 11:53 am |
 | 76 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 13 Sept 2026 | 12:59 pm |
+| 77 | [Number of Occurrence](./GeeksForGeeks/Easy/Number%20of%20Occurrence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Easy | 13 Sept 2026 | 01:24 pm |
