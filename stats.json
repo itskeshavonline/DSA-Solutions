@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
+  "totalSolved": 82,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 36,
-    "medium": 35,
+    "medium": 36,
     "hard": 6,
     "basic": 4
   },
@@ -91,7 +91,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Find_Peak_Element": true,
-    "GeeksForGeeks_Two_Sum_in_Sorted_Array": true
+    "GeeksForGeeks_Two_Sum_in_Sorted_Array": true,
+    "GeeksForGeeks_Triplet_Sum_in_Array": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -124,7 +125,7 @@
     "2026-09-10": 7,
     "2026-09-11": 5,
     "2026-09-12": 7,
-    "2026-09-13": 8
+    "2026-09-13": 9
   },
   "todayProblems": [
     "Remove Cycle in Linked List",
@@ -134,6 +135,7 @@
     "Sqrt(x)",
     "Search in Rotated Sorted Array",
     "Find Peak Element",
-    "Two Sum in Sorted Array"
+    "Two Sum in Sorted Array",
+    "Triplet Sum in Array"
   ]
 }

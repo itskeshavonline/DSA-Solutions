@@ -81,3 +81,4 @@
 | 79 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 13 Sept 2026 | 02:55 pm |
 | 80 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 13 Sept 2026 | 03:25 pm |
 | 81 | [Two Sum in Sorted Array](./GeeksForGeeks/Easy/Two%20Sum%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1) | Easy | 13 Sept 2026 | 03:34 pm |
+| 82 | [Triplet Sum in Array](./GeeksForGeeks/Medium/Triplet%20Sum%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | Medium | 13 Sept 2026 | 04:16 pm |
