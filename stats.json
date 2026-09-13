@@ -1,11 +1,11 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-13",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 34,
+    "easy": 35,
     "medium": 33,
     "hard": 6,
     "basic": 4
@@ -87,7 +87,8 @@
     "GeeksForGeeks_Remove_Cycle_in_Linked_List": true,
     "LeetCode_Linked_List_Cycle_II": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
-    "GeeksForGeeks_Number_of_Occurrence": true
+    "GeeksForGeeks_Number_of_Occurrence": true,
+    "LeetCode_Sqrt(x)": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -120,12 +121,13 @@
     "2026-09-10": 7,
     "2026-09-11": 5,
     "2026-09-12": 7,
-    "2026-09-13": 4
+    "2026-09-13": 5
   },
   "todayProblems": [
     "Remove Cycle in Linked List",
     "Linked List Cycle II",
     "Find First and Last Position of Element in Sorted Array",
-    "Number of Occurrence"
+    "Number of Occurrence",
+    "Sqrt(x)"
   ]
 }
