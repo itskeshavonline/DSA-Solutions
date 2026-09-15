@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
-  "currentStreak": 6,
+  "totalSolved": 84,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-13",
-  "todayCount": 10,
+  "lastSyncDate": "2026-09-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 36,
-    "medium": 37,
+    "medium": 38,
     "hard": 6,
     "basic": 4
   },
@@ -93,7 +93,8 @@
     "LeetCode_Find_Peak_Element": true,
     "GeeksForGeeks_Two_Sum_in_Sorted_Array": true,
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -126,18 +127,10 @@
     "2026-09-10": 7,
     "2026-09-11": 5,
     "2026-09-12": 7,
-    "2026-09-13": 10
+    "2026-09-13": 10,
+    "2026-09-15": 1
   },
   "todayProblems": [
-    "Remove Cycle in Linked List",
-    "Linked List Cycle II",
-    "Find First and Last Position of Element in Sorted Array",
-    "Number of Occurrence",
-    "Sqrt(x)",
-    "Search in Rotated Sorted Array",
-    "Find Peak Element",
-    "Two Sum in Sorted Array",
-    "Triplet Sum in Array",
-    "3Sum"
+    "House Robber"
   ]
 }

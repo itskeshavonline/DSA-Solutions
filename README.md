@@ -83,3 +83,4 @@
 | 81 | [Two Sum in Sorted Array](./GeeksForGeeks/Easy/Two%20Sum%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1) | Easy | 13 Sept 2026 | 03:34 pm |
 | 82 | [Triplet Sum in Array](./GeeksForGeeks/Medium/Triplet%20Sum%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | Medium | 13 Sept 2026 | 04:16 pm |
 | 83 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 13 Sept 2026 | 04:32 pm |
+| 84 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 15 Sept 2026 | 11:34 am |
