@@ -1,11 +1,11 @@
 {
-  "totalSolved": 85,
+  "totalSolved": 86,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 36,
+    "easy": 37,
     "medium": 39,
     "hard": 6,
     "basic": 4
@@ -95,7 +95,8 @@
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "LeetCode_3Sum": true,
     "LeetCode_House_Robber": true,
-    "LeetCode_Coin_Change_II": true
+    "LeetCode_Coin_Change_II": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -130,9 +131,10 @@
     "2026-09-12": 7,
     "2026-09-13": 10,
     "2026-09-15": 1,
-    "2026-09-16": 1
+    "2026-09-16": 2
   },
   "todayProblems": [
-    "Coin Change II"
+    "Coin Change II",
+    "Climbing Stairs"
   ]
 }

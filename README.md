@@ -85,3 +85,4 @@
 | 83 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 13 Sept 2026 | 04:32 pm |
 | 84 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 15 Sept 2026 | 11:34 am |
 | 85 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 16 Sept 2026 | 10:14 am |
+| 86 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 16 Sept 2026 | 12:46 pm |
