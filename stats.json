@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
-  "currentStreak": 2,
+  "totalSolved": 87,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-16",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 39,
+    "medium": 40,
     "hard": 6,
     "basic": 4
   },
@@ -96,7 +96,8 @@
     "LeetCode_3Sum": true,
     "LeetCode_House_Robber": true,
     "LeetCode_Coin_Change_II": true,
-    "LeetCode_Climbing_Stairs": true
+    "LeetCode_Climbing_Stairs": true,
+    "LeetCode_Fruit_Into_Baskets": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -131,10 +132,10 @@
     "2026-09-12": 7,
     "2026-09-13": 10,
     "2026-09-15": 1,
-    "2026-09-16": 2
+    "2026-09-16": 2,
+    "2026-09-19": 1
   },
   "todayProblems": [
-    "Coin Change II",
-    "Climbing Stairs"
+    "Fruit Into Baskets"
   ]
 }
