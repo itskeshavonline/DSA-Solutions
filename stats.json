@@ -1,12 +1,12 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 40,
+    "medium": 41,
     "hard": 6,
     "basic": 4
   },
@@ -97,7 +97,8 @@
     "LeetCode_House_Robber": true,
     "LeetCode_Coin_Change_II": true,
     "LeetCode_Climbing_Stairs": true,
-    "LeetCode_Fruit_Into_Baskets": true
+    "LeetCode_Fruit_Into_Baskets": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -133,9 +134,10 @@
     "2026-09-13": 10,
     "2026-09-15": 1,
     "2026-09-16": 2,
-    "2026-09-19": 1
+    "2026-09-19": 2
   },
   "todayProblems": [
-    "Fruit Into Baskets"
+    "Fruit Into Baskets",
+    "Boats to Save People"
   ]
 }

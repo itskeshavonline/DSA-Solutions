@@ -87,3 +87,4 @@
 | 85 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 16 Sept 2026 | 10:14 am |
 | 86 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 16 Sept 2026 | 12:46 pm |
 | 87 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 19 Sept 2026 | 04:54 am |
+| 88 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 19 Sept 2026 | 03:04 pm |
