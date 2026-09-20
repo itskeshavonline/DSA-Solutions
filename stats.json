@@ -1,12 +1,12 @@
 {
-  "totalSolved": 88,
-  "currentStreak": 1,
+  "totalSolved": 89,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 41,
+    "medium": 42,
     "hard": 6,
     "basic": 4
   },
@@ -98,7 +98,8 @@
     "LeetCode_Coin_Change_II": true,
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Fruit_Into_Baskets": true,
-    "LeetCode_Boats_to_Save_People": true
+    "LeetCode_Boats_to_Save_People": true,
+    "GeeksForGeeks_Frog_Jump": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -134,10 +135,10 @@
     "2026-09-13": 10,
     "2026-09-15": 1,
     "2026-09-16": 2,
-    "2026-09-19": 2
+    "2026-09-19": 2,
+    "2026-09-20": 1
   },
   "todayProblems": [
-    "Fruit Into Baskets",
-    "Boats to Save People"
+    "Frog Jump"
   ]
 }
