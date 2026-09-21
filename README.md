@@ -91,3 +91,4 @@
 | 89 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 20 Sept 2026 | 12:18 pm |
 | 90 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 21 Sept 2026 | 05:14 am |
 | 91 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 21 Sept 2026 | 06:20 am |
+| 92 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 21 Sept 2026 | 12:45 pm |
