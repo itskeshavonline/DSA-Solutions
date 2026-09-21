@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 3,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 42,
+    "medium": 43,
     "hard": 6,
     "basic": 4
   },
@@ -100,7 +100,8 @@
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Boats_to_Save_People": true,
     "GeeksForGeeks_Frog_Jump": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "GeeksForGeeks_0_-_1_Knapsack_Problem": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -138,9 +139,10 @@
     "2026-09-16": 2,
     "2026-09-19": 2,
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 2
   },
   "todayProblems": [
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "0 - 1 Knapsack Problem"
   ]
 }
