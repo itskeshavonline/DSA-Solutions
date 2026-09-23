@@ -93,3 +93,4 @@
 | 91 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 21 Sept 2026 | 06:20 am |
 | 92 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 21 Sept 2026 | 12:45 pm |
 | 93 | [Interleaving String](./LeetCode/Medium/Interleaving%20String) | [LeetCode](https://leetcode.com/problems/interleaving-string/) | Medium | 22 Sept 2026 | 03:30 pm |
+| 94 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 23 Sept 2026 | 02:50 pm |
