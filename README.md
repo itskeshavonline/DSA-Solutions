@@ -98,3 +98,4 @@
 | 96 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 24 Sept 2026 | 01:31 pm |
 | 97 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 24 Sept 2026 | 03:15 pm |
 | 98 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 24 Sept 2026 | 03:56 pm |
+| 99 | [Grumpy Bookstore Owner](./LeetCode/Medium/Grumpy%20Bookstore%20Owner) | [LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | 24 Sept 2026 | 05:17 pm |
