@@ -96,3 +96,4 @@
 | 94 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 23 Sept 2026 | 02:50 pm |
 | 95 | [Subarray Product Less Than K](./LeetCode/Medium/Subarray%20Product%20Less%20Than%20K) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | 23 Sept 2026 | 03:36 pm |
 | 96 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 24 Sept 2026 | 01:31 pm |
+| 97 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 24 Sept 2026 | 03:15 pm |
