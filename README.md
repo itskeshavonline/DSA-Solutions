@@ -100,3 +100,4 @@
 | 98 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 24 Sept 2026 | 03:56 pm |
 | 99 | [Grumpy Bookstore Owner](./LeetCode/Medium/Grumpy%20Bookstore%20Owner) | [LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/) | Medium | 24 Sept 2026 | 05:17 pm |
 | 100 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 26 Sept 2026 | 05:27 am |
+| 101 | [Maximum Ascending Subarray Sum](./LeetCode/Easy/Maximum%20Ascending%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | 28 Sept 2026 | 12:58 pm |

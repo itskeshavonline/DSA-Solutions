@@ -1,11 +1,11 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 40,
+    "easy": 41,
     "medium": 50,
     "hard": 6,
     "basic": 4
@@ -110,7 +110,8 @@
     "LeetCode_Max_Consecutive_Ones_III": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Grumpy_Bookstore_Owner": true,
-    "LeetCode_Find_Pivot_Index": true
+    "LeetCode_Find_Pivot_Index": true,
+    "LeetCode_Maximum_Ascending_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -152,9 +153,10 @@
     "2026-09-22": 1,
     "2026-09-23": 2,
     "2026-09-24": 4,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Find Pivot Index"
+    "Maximum Ascending Subarray Sum"
   ]
 }
