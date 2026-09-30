@@ -104,3 +104,4 @@
 | 102 | [Chopsticks](./Manual/Medium/Chopsticks) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/TACHSTCK?tab=statement) | Medium | 30 Sept 2026 | 12:12 pm |
 | 103 | [Maximum Weight Difference](./Manual/Medium/Maximum%20Weight%20Difference) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/MAXDIFF) | Medium | 30 Sept 2026 | 04:23 pm |
 | 104 | [Watson asks Does Permutation Exist](./Manual/Medium/Watson%20asks%20Does%20Permutation%20Exist) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/PERMEXIS) | Medium | 30 Sept 2026 | 04:59 pm |
+| 105 | [Chef and String](./Manual/Easy/Chef%20and%20String) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/XYSTR) | Easy | 30 Sept 2026 | 08:56 pm |
