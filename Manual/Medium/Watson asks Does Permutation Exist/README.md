@@ -2,7 +2,7 @@
 
 ## Difficulty: Medium
 
-## Platform: Manual
+## Platform: CodeChef
 
 ## Problem Link
 [View Problem](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/PERMEXIS)
@@ -15,6 +15,14 @@
 <p>Formally, if the reorganized array is <code>B<sub>1</sub>, B<sub>2</sub>, ..., B<sub>N</sub></code>, then the condition <code>|B<sub>i</sub> - B<sub>i+1</sub>| &lt;= 1</code>, for all <code>1 &lt;= i &lt; N</code> (where <code>|x|</code> denotes the absolute value of <code>x</code>) should be met.</p>
 
 <p>Sherlock is not sure that a solution exists, so he asks you.</p>
+
+<p>&nbsp;</p>
+<p><strong>Input</strong></p>
+<p>First line contains <code>T</code>, number of test cases. Each test case consists of <code>N</code> in one line followed by <code>N</code> integers in next line denoting <code>A<sub>1</sub>, A<sub>2</sub>, ..., A<sub>N</sub></code>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Output</strong></p>
+<p>For each test case, output in one line <code>YES</code> or <code>NO</code> denoting if array <code>A</code> can be reorganized in required way or not.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
