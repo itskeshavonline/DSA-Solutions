@@ -103,3 +103,4 @@
 | 101 | [Maximum Ascending Subarray Sum](./LeetCode/Easy/Maximum%20Ascending%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | Easy | 28 Sept 2026 | 12:58 pm |
 | 102 | [Chopsticks](./Manual/Medium/Chopsticks) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/TACHSTCK?tab=statement) | Medium | 30 Sept 2026 | 12:12 pm |
 | 103 | [Maximum Weight Difference](./Manual/Medium/Maximum%20Weight%20Difference) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/MAXDIFF) | Medium | 30 Sept 2026 | 04:23 pm |
+| 104 | [Watson asks Does Permutation Exist](./Manual/Medium/Watson%20asks%20Does%20Permutation%20Exist) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/PERMEXIS) | Medium | 30 Sept 2026 | 04:59 pm |
