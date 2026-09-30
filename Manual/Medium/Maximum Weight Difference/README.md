@@ -2,7 +2,7 @@
 
 ## Difficulty: Medium
 
-## Platform: Manual
+## Platform: CodeChef
 
 ## Problem Link
 [View Problem](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/MAXDIFF)
