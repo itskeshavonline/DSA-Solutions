@@ -107,3 +107,4 @@
 | 105 | [Chef and String](./Manual/Easy/Chef%20and%20String) | [Manual](https://www.codechef.com/practice/course/greedy-algorithms/INTGRA01/problems/XYSTR) | Easy | 30 Sept 2026 | 08:56 pm |
 | 106 | [Greater Average](./Manual/Easy/Greater%20Average) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM?tab=statement) | Easy | 10 Oct 2026 | 07:04 am |
 | 107 | [Subscriptions](./Manual/Easy/Subscriptions) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_) | Easy | 10 Oct 2026 | 07:21 am |
+| 108 | [Janmansh and Assignments](./Manual/Easy/Janmansh%20and%20Assignments) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS) | Easy | 10 Oct 2026 | 07:33 am |

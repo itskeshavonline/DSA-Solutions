@@ -1,11 +1,11 @@
 {
-  "totalSolved": 107,
+  "totalSolved": 108,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 44,
+    "easy": 45,
     "medium": 53,
     "hard": 6,
     "basic": 4
@@ -117,7 +117,8 @@
     "Manual_Watson_asks_Does_Permutation_Exist": true,
     "Manual_Chef_and_String": true,
     "Manual_Greater_Average": true,
-    "Manual_Subscriptions": true
+    "Manual_Subscriptions": true,
+    "Manual_Janmansh_and_Assignments": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -162,10 +163,11 @@
     "2026-09-26": 1,
     "2026-09-28": 1,
     "2026-09-30": 4,
-    "2026-10-10": 2
+    "2026-10-10": 3
   },
   "todayProblems": [
     "Greater Average",
-    "Subscriptions"
+    "Subscriptions",
+    "Janmansh and Assignments"
   ]
 }
