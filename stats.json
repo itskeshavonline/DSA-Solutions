@@ -1,11 +1,11 @@
 {
-  "totalSolved": 105,
+  "totalSolved": 106,
   "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-09-30",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-10",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 42,
+    "easy": 43,
     "medium": 53,
     "hard": 6,
     "basic": 4
@@ -115,7 +115,8 @@
     "Manual_Chopsticks": true,
     "Manual_Maximum_Weight_Difference": true,
     "Manual_Watson_asks_Does_Permutation_Exist": true,
-    "Manual_Chef_and_String": true
+    "Manual_Chef_and_String": true,
+    "Manual_Greater_Average": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -159,12 +160,10 @@
     "2026-09-24": 4,
     "2026-09-26": 1,
     "2026-09-28": 1,
-    "2026-09-30": 4
+    "2026-09-30": 4,
+    "2026-10-10": 1
   },
   "todayProblems": [
-    "Chopsticks",
-    "Maximum Weight Difference",
-    "Watson asks Does Permutation Exist",
-    "Chef and String"
+    "Greater Average"
   ]
 }
