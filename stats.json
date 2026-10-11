@@ -1,14 +1,14 @@
 {
-  "totalSolved": 110,
+  "totalSolved": 111,
   "currentStreak": 1,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 45,
     "medium": 53,
     "hard": 6,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "LeetCode_Add_Binary": true,
@@ -120,7 +120,8 @@
     "Manual_Subscriptions": true,
     "Manual_Janmansh_and_Assignments": true,
     "Manual_Exams": true,
-    "Manual_Chef_in_his_Office": true
+    "Manual_Chef_in_his_Office": true,
+    "Manual_Mahasena": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -166,9 +167,10 @@
     "2026-09-28": 1,
     "2026-09-30": 4,
     "2026-10-10": 4,
-    "2026-10-12": 1
+    "2026-10-12": 2
   },
   "todayProblems": [
-    "Chef in his Office"
+    "Chef in his Office",
+    "Mahasena"
   ]
 }
