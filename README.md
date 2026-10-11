@@ -109,3 +109,4 @@
 | 107 | [Subscriptions](./Manual/Easy/Subscriptions) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_) | Easy | 10 Oct 2026 | 07:21 am |
 | 108 | [Janmansh and Assignments](./Manual/Easy/Janmansh%20and%20Assignments) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/JASSIGNMENTS) | Easy | 10 Oct 2026 | 07:33 am |
 | 109 | [Exams](./Manual/Basic/Exams) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF) | Basic | 10 Oct 2026 | 07:44 am |
+| 110 | [Chef in his Office](./Manual/Basic/Chef%20in%20his%20Office) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE) | Basic | 12 Oct 2026 | 04:17 am |
