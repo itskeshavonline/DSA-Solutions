@@ -112,3 +112,4 @@
 | 110 | [Chef in his Office](./Manual/Basic/Chef%20in%20his%20Office) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE) | Basic | 12 Oct 2026 | 04:17 am |
 | 111 | [Mahasena](./Manual/Basic/Mahasena) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A) | Basic | 12 Oct 2026 | 04:40 am |
 | 112 | [CRED Coins](./Manual/Basic/CRED%20Coins) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS?tab=Help) | Basic | 12 Oct 2026 | 04:51 am |
+| 113 | [Water Filling](./Manual/Basic/Water%20Filling) | [Manual](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING) | Basic | 12 Oct 2026 | 05:04 am |
