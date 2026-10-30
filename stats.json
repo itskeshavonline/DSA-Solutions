@@ -1,13 +1,13 @@
 {
-  "totalSolved": 113,
+  "totalSolved": 114,
   "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-10-12",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-30",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 45,
     "medium": 53,
-    "hard": 6,
+    "hard": 7,
     "basic": 9
   },
   "syncedProblems": {
@@ -123,7 +123,8 @@
     "Manual_Chef_in_his_Office": true,
     "Manual_Mahasena": true,
     "Manual_CRED_Coins": true,
-    "Manual_Water_Filling": true
+    "Manual_Water_Filling": true,
+    "Manual_Query_over_Matrix": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -169,12 +170,10 @@
     "2026-09-28": 1,
     "2026-09-30": 4,
     "2026-10-10": 4,
-    "2026-10-12": 4
+    "2026-10-12": 4,
+    "2026-10-30": 1
   },
   "todayProblems": [
-    "Chef in his Office",
-    "Mahasena",
-    "CRED Coins",
-    "Water Filling"
+    "Query over Matrix"
   ]
 }
