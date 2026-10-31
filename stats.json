@@ -1,12 +1,12 @@
 {
-  "totalSolved": 115,
+  "totalSolved": 116,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 54,
+    "medium": 55,
     "hard": 7,
     "basic": 9
   },
@@ -125,7 +125,8 @@
     "Manual_CRED_Coins": true,
     "Manual_Water_Filling": true,
     "Manual_Query_over_Matrix": true,
-    "Manual_Many_Chefs": true
+    "Manual_Many_Chefs": true,
+    "Manual_Weird_Palindrome_Making": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -173,9 +174,10 @@
     "2026-10-10": 4,
     "2026-10-12": 4,
     "2026-10-30": 1,
-    "2026-10-31": 1
+    "2026-10-31": 2
   },
   "todayProblems": [
-    "Many Chefs"
+    "Many Chefs",
+    "Weird Palindrome Making"
   ]
 }
