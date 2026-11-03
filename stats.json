@@ -1,13 +1,13 @@
 {
-  "totalSolved": 117,
-  "currentStreak": 2,
+  "totalSolved": 118,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-10-31",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 45,
     "medium": 55,
-    "hard": 8,
+    "hard": 9,
     "basic": 9
   },
   "syncedProblems": {
@@ -127,7 +127,8 @@
     "Manual_Query_over_Matrix": true,
     "Manual_Many_Chefs": true,
     "Manual_Weird_Palindrome_Making": true,
-    "Manual_Palindromes_Not_Allowed": true
+    "Manual_Palindromes_Not_Allowed": true,
+    "LeetCode_Frog_Jump": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -175,11 +176,10 @@
     "2026-10-10": 4,
     "2026-10-12": 4,
     "2026-10-30": 1,
-    "2026-10-31": 3
+    "2026-10-31": 3,
+    "2026-11-03": 1
   },
   "todayProblems": [
-    "Many Chefs",
-    "Weird Palindrome Making",
-    "Palindromes Not Allowed"
+    "Frog Jump"
   ]
 }
