@@ -119,3 +119,4 @@
 | 117 | [Palindromes Not Allowed](./Manual/Hard/Palindromes%20Not%20Allowed) | [Manual](https://www.codechef.com/problems/NOPAL2) | Hard | 31 Oct 2026 | 05:20 pm |
 | 118 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 05 Nov 2026 | 10:13 am |
 | 119 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 05 Nov 2026 | 10:41 pm |
+| 120 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 05 Nov 2026 | 11:13 pm |
