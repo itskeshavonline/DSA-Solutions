@@ -117,3 +117,4 @@
 | 115 | [Many Chefs](./Manual/Medium/Many%20Chefs) | [Manual](https://www.codechef.com/problems/MANYCHEF) | Medium | 31 Oct 2026 | 09:28 am |
 | 116 | [Weird Palindrome Making](./Manual/Medium/Weird%20Palindrome%20Making) | [Manual](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MAKEPAL) | Medium | 31 Oct 2026 | 09:56 am |
 | 117 | [Palindromes Not Allowed](./Manual/Hard/Palindromes%20Not%20Allowed) | [Manual](https://www.codechef.com/problems/NOPAL2) | Hard | 31 Oct 2026 | 05:20 pm |
+| 118 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 05 Nov 2026 | 10:13 am |

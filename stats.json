@@ -1,12 +1,12 @@
 {
-  "totalSolved": 118,
+  "totalSolved": 119,
   "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-03",
+  "lastSyncDate": "2026-11-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 55,
+    "medium": 56,
     "hard": 9,
     "basic": 9
   },
@@ -128,7 +128,8 @@
     "Manual_Many_Chefs": true,
     "Manual_Weird_Palindrome_Making": true,
     "Manual_Palindromes_Not_Allowed": true,
-    "LeetCode_Frog_Jump": true
+    "LeetCode_Frog_Jump": true,
+    "LeetCode_Continuous_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -177,9 +178,10 @@
     "2026-10-12": 4,
     "2026-10-30": 1,
     "2026-10-31": 3,
-    "2026-11-03": 1
+    "2026-11-03": 1,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Frog Jump"
+    "Continuous Subarray Sum"
   ]
 }
