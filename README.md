@@ -120,3 +120,4 @@
 | 118 | [Continuous Subarray Sum](./LeetCode/Medium/Continuous%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | 05 Nov 2026 | 10:13 am |
 | 119 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 05 Nov 2026 | 10:41 pm |
 | 120 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 05 Nov 2026 | 11:13 pm |
+| 121 | [Longest Subsequence With Limited Sum](./LeetCode/Easy/Longest%20Subsequence%20With%20Limited%20Sum) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Easy | 06 Nov 2026 | 01:29 am |

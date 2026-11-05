@@ -1,11 +1,11 @@
 {
-  "totalSolved": 121,
-  "currentStreak": 1,
+  "totalSolved": 122,
+  "currentStreak": 2,
   "maxStreak": 7,
-  "lastSyncDate": "2026-11-05",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 46,
+    "easy": 47,
     "medium": 57,
     "hard": 9,
     "basic": 9
@@ -131,7 +131,8 @@
     "LeetCode_Frog_Jump": true,
     "LeetCode_Continuous_Subarray_Sum": true,
     "LeetCode_Range_Sum_Query_-_Immutable": true,
-    "LeetCode_Subarray_Sums_Divisible_by_K": true
+    "LeetCode_Subarray_Sums_Divisible_by_K": true,
+    "LeetCode_Longest_Subsequence_With_Limited_Sum": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -181,11 +182,10 @@
     "2026-10-30": 1,
     "2026-10-31": 3,
     "2026-11-03": 1,
-    "2026-11-05": 3
+    "2026-11-05": 3,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "Continuous Subarray Sum",
-    "Range Sum Query - Immutable",
-    "Subarray Sums Divisible by K"
+    "Longest Subsequence With Limited Sum"
   ]
 }
