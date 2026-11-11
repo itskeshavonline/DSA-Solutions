@@ -123,3 +123,4 @@
 | 121 | [Longest Subsequence With Limited Sum](./LeetCode/Easy/Longest%20Subsequence%20With%20Limited%20Sum) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Easy | 06 Nov 2026 | 01:29 am |
 | 122 | [Breadth First Search](./Manual/Easy/Breadth%20First%20Search) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP01/problems/BFS) | Easy | 11 Nov 2026 | 03:25 pm |
 | 123 | [Count number of leaf nodes](./Manual/Easy/Count%20number%20of%20leaf%20nodes) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP01/problems/DSCPP86) | Easy | 11 Nov 2026 | 05:41 pm |
+| 124 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 11 Nov 2026 | 06:14 pm |
