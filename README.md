@@ -125,3 +125,4 @@
 | 123 | [Count number of leaf nodes](./Manual/Easy/Count%20number%20of%20leaf%20nodes) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP01/problems/DSCPP86) | Easy | 11 Nov 2026 | 05:41 pm |
 | 124 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 11 Nov 2026 | 06:14 pm |
 | 125 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 13 Nov 2026 | 02:47 am |
+| 126 | [Height of the tree](./Manual/Easy/Height%20of%20the%20tree) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREELVL) | Easy | 13 Nov 2026 | 02:51 am |
