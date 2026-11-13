@@ -126,3 +126,4 @@
 | 124 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 11 Nov 2026 | 06:14 pm |
 | 125 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 13 Nov 2026 | 02:47 am |
 | 126 | [Height of the tree](./Manual/Easy/Height%20of%20the%20tree) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREELVL) | Easy | 13 Nov 2026 | 02:51 am |
+| 127 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 13 Nov 2026 | 11:36 am |
