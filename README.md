@@ -132,3 +132,4 @@
 | 130 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 13 Nov 2026 | 02:07 pm |
 | 131 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 13 Nov 2026 | 02:42 pm |
 | 132 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 13 Nov 2026 | 04:59 pm |
+| 133 | [Nodes at Kth Level](./Manual/Easy/Nodes%20at%20Kth%20Level) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/KTHNODE) | Easy | 13 Nov 2026 | 09:59 pm |
