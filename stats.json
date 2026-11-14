@@ -1,12 +1,12 @@
 {
-  "totalSolved": 136,
+  "totalSolved": 137,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-14",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 59,
-    "medium": 59,
+    "medium": 60,
     "hard": 9,
     "basic": 9
   },
@@ -146,7 +146,8 @@
     "LeetCode_Symmetric_Tree": true,
     "Manual_Nodes_at_Kth_Level": true,
     "Manual_Tree_Path_Sum": true,
-    "Manual_Subtree_Sum": true
+    "Manual_Subtree_Sum": true,
+    "Manual_Diameter_of_the_tree": true
   },
   "activityHistory": {
     "2026-07-14": 3,
@@ -200,10 +201,11 @@
     "2026-11-06": 1,
     "2026-11-11": 3,
     "2026-11-13": 9,
-    "2026-11-14": 2
+    "2026-11-14": 3
   },
   "todayProblems": [
     "Tree Path Sum",
-    "Subtree Sum"
+    "Subtree Sum",
+    "Diameter of the tree"
   ]
 }

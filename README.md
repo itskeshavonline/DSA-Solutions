@@ -135,3 +135,4 @@
 | 133 | [Nodes at Kth Level](./Manual/Easy/Nodes%20at%20Kth%20Level) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/KTHNODE) | Easy | 13 Nov 2026 | 09:59 pm |
 | 134 | [Tree Path Sum](./Manual/Medium/Tree%20Path%20Sum) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREEPATHSUM) | Medium | 14 Nov 2026 | 08:12 am |
 | 135 | [Subtree Sum](./Manual/Medium/Subtree%20Sum) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/SUBTREESUM) | Medium | 14 Nov 2026 | 02:11 pm |
+| 136 | [Diameter of the tree](./Manual/Medium/Diameter%20of%20the%20tree) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREEDIAMETER) | Medium | 14 Nov 2026 | 06:57 pm |

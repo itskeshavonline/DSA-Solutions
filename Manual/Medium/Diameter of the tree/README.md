@@ -1,0 +1,51 @@
+# Diameter of the tree
+
+## Difficulty: Medium
+
+## Platform: Manual
+
+## Problem Link
+[View Problem](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREEDIAMETER)
+
+## Solved On
+14 Nov 2026 at 06:57 pm
+
+<p>Given an undirected connected tree with <code>N</code> nodes, numbered from <code>1</code> to <code>N</code>, and rooted at node <code>1</code>, find the length of the diameter of the tree (<strong>Note:</strong> Diameter of a tree is the longest path between any two nodes. There can be more than one diameter of a tree with the same length).</p>
+
+<p>For example, in the following tree, length of the tree's diameter is <code>4</code>. (one of the diameters is <code>5-2-1-4-7</code>)</p>
+
+<p> </p>
+<p><strong>Input</strong></p>
+<p>The first line of the input contains a single integer <code>N</code> — the number of nodes.</p>
+<p>The next <code>N - 1</code> lines describe the edges. The <code>i<sup>th</sup></code> of these <code>N - 1</code> lines contains two space-separated integers <code>u<sub>i</sub></code> and <code>v<sub>i</sub></code>, denoting a bidirectional edge between <code>u<sub>i</sub></code> and <code>v<sub>i</sub></code>.</p>
+
+<p> </p>
+<p><strong>Output</strong></p>
+<p>Output on the single line, the length of the diameter of given tree.</p>
+
+<p> </p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong>
+7
+1 2
+1 4
+2 5
+2 3
+2 6
+4 7
+<strong>Output:</strong>
+4
+</pre>
+
+<p> </p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 <= N <= 10<sup>5</sup></code></li>
+	<li><code>1 <= u<sub>i</sub>, v<sub>i</sub> <= N</code></li>
+</ul>
+
+## My Notes / Approach:
+Difficulty: 1450 or 2-star
