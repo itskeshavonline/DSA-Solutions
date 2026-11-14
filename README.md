@@ -133,3 +133,4 @@
 | 131 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 13 Nov 2026 | 02:42 pm |
 | 132 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 13 Nov 2026 | 04:59 pm |
 | 133 | [Nodes at Kth Level](./Manual/Easy/Nodes%20at%20Kth%20Level) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/KTHNODE) | Easy | 13 Nov 2026 | 09:59 pm |
+| 134 | [Tree Path Sum](./Manual/Medium/Tree%20Path%20Sum) | [Manual](https://www.codechef.com/learn/course/trees-new/TREESP02/problems/TREEPATHSUM) | Medium | 14 Nov 2026 | 08:12 am |
